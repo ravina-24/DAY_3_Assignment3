@@ -31,7 +31,7 @@ namespace DAY_3_Assignment3
             {
                 Console.WriteLine("Input is invalid");
                 CalculateWindChill();
-                Console.WriteLine();
+               
             }
 
             Console.ReadLine();
