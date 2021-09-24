@@ -9,7 +9,8 @@ namespace DAY_3_Assignment3
             CarLoan c = new CarLoan();
             c.CalculateLoan();
 
-
+            DayOfWeek d = new DayOfWeek();
+            d.FindDayOfWeek();
         }
     }
 }
