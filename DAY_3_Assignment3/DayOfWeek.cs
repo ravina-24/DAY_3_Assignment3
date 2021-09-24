@@ -70,7 +70,7 @@ namespace DAY_3_Assignment3
             else
             {
                 Console.WriteLine("Input is not valid");
-
+                FindDayOfWeek();
             }
             Console.ReadLine();
         }  
