@@ -11,6 +11,9 @@ namespace DAY_3_Assignment3
 
             DayOfWeek d = new DayOfWeek();
             d.FindDayOfWeek();
+
+            WindChill w = new WindChill();
+            w.CalculateWindChill();
         }
     }
 }
