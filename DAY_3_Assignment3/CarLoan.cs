@@ -25,7 +25,6 @@ namespace DAY_3_Assignment3
             Rate = Convert.ToDouble(Console.ReadLine());
 
 
-
             double n = 12 * year;   //number of months
             double r = Rate / (12 * 100);  //interest rate
 
