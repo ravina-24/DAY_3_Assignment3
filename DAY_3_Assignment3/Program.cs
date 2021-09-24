@@ -8,6 +8,8 @@ namespace DAY_3_Assignment3
         {
             CarLoan c = new CarLoan();
             c.CalculateLoan();
+
+
         }
     }
 }
