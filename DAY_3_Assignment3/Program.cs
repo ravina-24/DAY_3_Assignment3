@@ -40,9 +40,11 @@ namespace DAY_3_Assignment3
 
                 default:                 
                         Console.WriteLine("Enter proper input");
+                    
                     break;
             }
 
+            Console.ReadLine();
 
         }
     }
